@@ -62,11 +62,6 @@ result
 
 result.to_excel(r'C:\Users\zhang\Desktop\门店地铁分析\上海门店地铁站匹配.xlsx')
 
-alldata_set = pd.read_csv(r'C:\Users\zhang\Desktop\门店地铁分析\上海门店地铁站匹配.csv')
-
-
-b = alldata_set[:6]
-for row in  b.iterrows():
   
 
 
